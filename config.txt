@@ -1,0 +1,6 @@
+owner=545576718354874368
+prefix=!
+game=playing A Game
+stayinchannel=true
+songinstatus=false
+token=NTQ1NjE0NzkwNjgxMTY1ODc1.D0cPPQ.RKgYFPKj1W1oHWIxpWGFDwKMidI
